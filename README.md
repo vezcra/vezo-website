@@ -1,2 +1,1 @@
-# vezo-website
-purnacı
+
